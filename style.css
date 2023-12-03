@@ -25,7 +25,7 @@ body{
 	background: #fff2e1;
 }
 .textcols-row .textcols-item:first-child {
-	border-right: 30px solid #fff;
+	border-right: 25px solid #fff;
 }
 .textcols-row .textcols-item:last-child {
 	border-left: 30px solid #fff;
