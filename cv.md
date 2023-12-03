@@ -47,6 +47,7 @@ Faculty of Finance and Banking, Finance and credit
     + Graduate (Python-developer) in the company [IT Overone](https://overone.by/) (Certificate)
 ![Picture](https://yandex.by/images/search?from=tabbar&img_url=https%3A%2F%2Fms1.relax.by%2Fimages%2F47fce3f057af872c1fb085cc6ac9644d%2Fresize%2Fw%253D300%252Ch%253D300%252Cq%253D81%2Fplace_logo%2F1f%2F12%2F88%2F1f12889357209e14228a74bafd8d3c6a.jpg&lr=157&pos=5&rpt=simage&text=%D0%BE%D0%B2%D0%B5%D1%80%D0%B2%D0%B0%D0%BD)
     + Yandex Practicum Courses - Основы Python (online)
+    + RS Scool - JS stage#0
 
 >Javascript is the adhesive tape of the Internet.
 
