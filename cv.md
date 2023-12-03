@@ -10,7 +10,7 @@ GitHub: [Katya Kaperskay](https://github.com/KatyaKaperskaya)
 
 
 ## __*About me*__
-I have knowledge in python, Django framework. I have an extraordinary thinking, I can work in multitasking mode. Looking for a friendly team to work on joint projects. Doing sports.
+I have knowledge in Python. I have an extraordinary thinking, I can work in multitasking mode. Looking for a friendly team to work on joint projects. Doing sports.
 
 ## __*Key skills*__
 __*Languages*__
