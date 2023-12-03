@@ -28,7 +28,7 @@ body{
 	border-right: 25px solid #fff;
 }
 .textcols-row .textcols-item:last-child {
-	border-left: 30px solid #fff;
+	border-left: 25px solid #fff;
 }
 h2 {
     display: flex;
