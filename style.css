@@ -1,0 +1,48 @@
+
+header, footer, nav {display: block;}
+main {display:block;}
+
+p {
+	color: rgb(145, 142, 142);
+}
+body{
+	background-color: #000;
+  background: url('https://yandex.by/images/search?img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F131038945_406135910593017_6586503575564395061_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D109%26_nc_ohc%3DopN3RxvBUwUAX-jJaAf%26tp%3D1%26oh%3Defea5261d5a48f794ed2c12986e03d5a%26oe%3D6005F2C0&lr=157&pos=32&rpt=simage&source=serp&stype=image&text=british%20library%20%D1%84%D0%BE%D1%82%D0%BE');
+}
+.textcols {
+	display: table;
+	width: 100%;
+	border-collapse: collapse;
+}
+.textcols-row {
+  display: table-row;
+}
+.textcols-item {
+	display: table;
+	width: 100%;
+	vertical-align: top;
+	padding: 0;
+	background: #fff2e1;
+}
+.textcols-row .textcols-item:first-child {
+	border-right: 25px solid #fff;
+}
+.textcols-row .textcols-item:last-child {
+	border-left: 25px solid #fff;
+}
+h2 {
+    display: flex;
+    flex-direction: row;
+  }
+  h2:before, h2:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+  h2:before {
+    margin-right: 5px
+  }
+  h2:after {
+    margin-left: 5px
+  }
